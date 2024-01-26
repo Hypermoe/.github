@@ -1,6 +1,7 @@
 ## Hypermoe ( •̀ ω •́ )y
 
-用最萌的想法创造世界！
+用最萌的想法创造世界！<br>
+CREATE THE WORLD WITH THE MOST MOE IDEA!
 
 ![](profile/image/110486537_p0_master1200.jpg)
 
